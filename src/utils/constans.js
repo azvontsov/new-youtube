@@ -13,7 +13,7 @@ import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 
 export const logo =
-  "https://res.cloudinary.com/antonjs/image/upload/v1661614621/logo_fri2yz.png";
+  "https://res.cloudinary.com/antonjs/image/upload/v1661614889/logo_eprbo9.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
