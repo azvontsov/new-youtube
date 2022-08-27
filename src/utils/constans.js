@@ -17,7 +17,7 @@ export const logo =
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
-  { name: "JS Mastery", icon: <CodeIcon /> },
+
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
@@ -35,11 +35,10 @@ export const categories = [
   { name: "Crypto", icon: <DeveloperModeIcon /> },
 ];
 
-export const demoThumbnailUrl =
-  "https://res.cloudinary.com/antonjs/image/upload/v1654873098/1_yxyuzv.png";
+export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
 export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
 export const demoVideoUrl = "/video/GDa8kZLNhJ4";
-export const demoChannelTitle = "Anton Channel";
-export const demoVideoTitle = "Upload your Video";
+export const demoChannelTitle = "JavaScript Mastery";
+export const demoVideoTitle = "Youtube | RapidAPI";
 export const demoProfilePicture =
   "http://dergipark.org.tr/assets/app/images/buddy_sample.png";
