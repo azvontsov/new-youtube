@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Newtube - A Youtube Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![A Youtube Clone](https://res.cloudinary.com/antonjs/image/upload/v1661705001/newtube-01_lfqyna.png "A Youtube Clone")
 
-## Available Scripts
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/azvontsov "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/tiktok-clone?)](https://github.com/Technical-Shubham-tech/tiktok-clone/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/azvontsov/newtube/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/tiktok-clone/)](https://github.com/azvontsov/newtube/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/tiktok-clone/main/)](https://github.com/azvontsov/newtube/commits "Github commits")
+[![Netlify Deployment](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://new-tube.netlify.app// "Netlify Deployment")
 
-In the project directory, you can run:
+## :camera: Screenshots:
 
-### `npm start`
+![Post Details](https://res.cloudinary.com/antonjs/image/upload/v1661705001/newtube-01_lfqyna.png "Main Page")
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Profile Page](https://res.cloudinary.com/antonjs/image/upload/v1661705947/newtube-02_he1zce.png "Videofile Page")
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Upload New Posts](https://res.cloudinary.com/antonjs/image/upload/v1661705947/newtube-03_omdxt8.png "Full screen")
 
-### `npm test`
+## :gear: Built with
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[<img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="150" height="40" />](https://www.javascript.com/ "JavaScript")
 
-### `npm run build`
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150" />](https://reactjs.org/ "React JS")
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white" width="150" />](https://mui.com/ "Material UI")
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/azvontsov "Built with Love")
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :star: Give A Star
 
-### `npm run eject`
+You can also give this repository a star to show more people and they can use this repository.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## :books: Available Scripts
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This is a [React.js](https://reactjs.org/) project with Material UI [`create-react-app`](https://create-react-app.dev/).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+First, run the development server:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-## Learn More
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[API routes](https://rapidapi.com/hub). This endpoint can be edited in `utils/fetchFromAPI`.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :page_with_curl: Learn More
 
-### Code Splitting
+To learn more about RapidAPI, take a look at the following resources:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [RapidAPI Documentation](https://rapidapi.com/hub) - learn about RapidAPI features.
 
-### Analyzing the Bundle Size
+## Deploy on Netlify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The easiest way to deploy your React.js app is to use the [Netlify Platform](https://www.netlify.com/)
