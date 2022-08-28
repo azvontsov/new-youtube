@@ -1,5 +1,6 @@
 import MusicNoteIcon from "@mui/icons-material/MusicNote";
 import HomeIcon from "@mui/icons-material/Home";
+import NightlifeIcon from "@mui/icons-material/Nightlife";
 import CodeIcon from "@mui/icons-material/Code";
 import OndemandVideoIcon from "@mui/icons-material/OndemandVideo";
 import SportsEsportsIcon from "@mui/icons-material/SportsEsports";
@@ -16,8 +17,8 @@ export const logo =
   "https://res.cloudinary.com/antonjs/image/upload/v1661696497/logo_fdnjaq.png";
 
 export const categories = [
-  { name: "New", icon: <HomeIcon /> },
-  { name: "Justin Johnson", icon: <CodeIcon /> },
+  { name: "USA", icon: <HomeIcon /> },
+  { name: "Justin Johnson", icon: <NightlifeIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
@@ -36,7 +37,7 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
-export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
+export const demoChannelUrl = "/channel/UCJg9wBPyKMNA5sRDnvzmkdg";
 export const demoVideoUrl = "/video/jbu1Olj9wX0";
 export const demoChannelTitle = "JavaScript Mastery";
 export const demoVideoTitle =
