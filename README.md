@@ -11,8 +11,6 @@
 
 ## :camera: Screenshots:
 
-![Post Details](https://res.cloudinary.com/antonjs/image/upload/v1661705001/newtube-01_lfqyna.png "Main Page")
-
 ![Profile Page](https://res.cloudinary.com/antonjs/image/upload/v1661705947/newtube-02_he1zce.png "Videofile Page")
 
 ![Upload New Posts](https://res.cloudinary.com/antonjs/image/upload/v1661705947/newtube-03_omdxt8.png "Full screen")
