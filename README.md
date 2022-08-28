@@ -7,7 +7,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/azvontsov/newtube/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/tiktok-clone/)](https://github.com/azvontsov/newtube/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/tiktok-clone/main/)](https://github.com/azvontsov/newtube/commits "Github commits")
-[![Netlify Deployment](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://new-tube.netlify.app// "Netlify Deployment")
+[![Netlify Deployment](https://img.shields.io/badge/Netlify-97EFDB?style=for-the-badge&logo=netlify&logoColor=white)](https://new-tube.netlify.app// "Netlify Deployment")
 
 ## :camera: Screenshots:
 
