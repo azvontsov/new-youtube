@@ -17,7 +17,7 @@
 
 ## :gear: Built with
 
-[<img src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white" width="150" height="40" />](https://www.javascript.com/ "JavaScript")
+[<img src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white" width="150"  />](https://www.javascript.com/ "JavaScript")
 
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150" />](https://reactjs.org/ "React JS")
 
