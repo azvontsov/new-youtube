@@ -14,7 +14,7 @@ import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 
 export const logo =
-  "https://res.cloudinary.com/antonjs/image/upload/v1661696497/logo_fdnjaq.png";
+  "https://res.cloudinary.com/antonjs/image/upload/v1661707756/logo_yzabol.png";
 
 export const categories = [
   { name: "USA", icon: <HomeIcon /> },
